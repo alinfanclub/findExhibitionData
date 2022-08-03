@@ -1,0 +1,11 @@
+{
+    "id": "bma",
+    "place_name": "부산 현대미술관",
+    "adress": "부산광역시 사하구 낙동남로 1191",
+    "exhibition": [
+        {
+            "title": "b",
+            "date": "2019~"
+        }
+    ]
+}
